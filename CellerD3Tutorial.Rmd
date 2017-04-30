@@ -26,11 +26,11 @@ data("state")
 data("georgia")
 ```
 
-D3.js (Data Driven Documents) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+D3.js.org provides the following description of D3: D3.js (Data Driven Documents) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 
-Basically, D3.js is simply one of the many ways we are able to produce a visualization; it is essentially like drawing.  D3 is a javascript library that is predominately used to create interactive data visualizations in web browsers.  Unlike R, learning D3.js requires learning Javascript.  With that in mind, it is still possible to produce the same results with both programs (for the most part), one simply requires knowledge of coding with HTML, CSS, etc, while the other requires knowledge of coding with R.  D3 is used by a variety of organizations for data visualization, ranging from The New York Times to MTV to academia and policy.
+Basically, D3.js is simply one of the many ways we are able to produce a visualization; it is essentially like drawing.  D3 is a javascript library that is predominately used to create interactive data visualizations in web browsers.  Unlike R, learning D3.js requires learning Javascript.  With that in mind, it is still possible to produce the same or similar results with both programs, one simply requires knowledge of coding with HTML, CSS, etc, while the other requires knowledge of coding with R.  D3 is used by a variety of organizations for data visualization, ranging from The New York Times to MTV to academia and policy.
 
-As mentioned above, D3 is one of the many ways of producing data visualizations.  The predominate use of D3 is the production of visulizations.  However, as mentioned above, the visulizations produced with D3 are typically done with HTML, and is not typically something that is executed in R.  
+As mentioned above, D3 is one of the many ways of producing data visualizations.  Indeed, the predominate use of D3 is the production of visulizations.  However, as mentioned above, the visulizations produced with D3 are typically done with HTML, which is not typically something that is executed in R.  
 
 Some examples of what can be done with D3 are:
 
@@ -45,10 +45,10 @@ Some examples of what can be done with D3 are:
 As you can see, the first two examples also provide tutorials and sample code of what working with D3 looks like.
 
 
-While D3 is simply one of the many ways to produce a visualization, one of its core strengths is that it allows for the creation of vector graphics for traditional charting, but also the creation of geospatial and network visualizations, as well as traditional HTML elements like tables, lists and paragraphs.  (Meeks, 5-6)
+While D3 is one of the many ways to produce a visualization, one of its core strengths is that it allows for the creation of vector graphics for traditional charting, but also the creation of geospatial and network visualizations, as well as traditional HTML elements like tables, lists and paragraphs.  (Meeks, 5-6)
 
 
-As can be seen here, D3 is an entirely different way of producing visualizations.  However, what we can do in D3 we can do in R (for the most part).  As a simple example, we can reproduce the above D3 examples in R . . . 
+As can be seen here, D3 is an entirely different way of producing visualizations.  However, what we can do in D3 we can approximate or replicate in R.  As a simple example, we can attempt to reproduce the above D3 examples in R . . . 
 
 As you can recall from earlier in the semester, we worked on creating interactive maps in R. The following example provides a glimpse of the similar types of things we can do in R:
 
