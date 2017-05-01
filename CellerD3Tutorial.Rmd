@@ -96,7 +96,7 @@ ggplot(paulist_missions, aes(x = converts)) +
 ```
 
 
-The above examples are just a few basic ideas of what D3 can do.  And, the R examples that followed serve to show where, even though D3 might appear to have a more robust ability to produce visualizations, there are several occasions on which we're able to reproduce the results of D3 in R.
+The above examples are just a few basic ideas of what D3 can do.  And, the R examples that followed serve to show where, even though D3 might appear to have a more robust ability to produce visualizations, there are several occasions on which we're able to reproduce or approximate the results of D3 in R.
 
 There are, however, several more interesting and meaningfully more complex examples of what we can do with D3, such as . . . 
 
